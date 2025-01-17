@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/asahin/asahin-2025-1-17-14-23-30/:/
+ - /content/asahin/asahin-2025-1-17-14-23-30/metadata.json:/metadata.json
+ - /content/asahin/asahin-2025-1-17-14-23-30/redirects.json:/redirects.json
